@@ -1,0 +1,10 @@
+site_name: pytest-add-cleanup
+site_description: A simple plugin to use with Pytest
+site_author: Steve Church
+
+theme: readthedocs
+
+repo_url: https://github.com/SteveChurch/pytest-add-cleanup
+
+pages:
+- Home: index.md
